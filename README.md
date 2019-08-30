@@ -9,3 +9,5 @@ I created a separate componant for each section of this page for the best practi
 2. Run the command to set up the npm packages : `npm i`
 3. Start the application with the coomand: `yarn dev-server` . It will give you the link to localhost, on ,y computer it is "http://localhost:8080/"
 
+
+Side Note: I decided not to spend a lot of time on CSS, or SASS, or other UX designs as this App was only for practice React
